@@ -10,7 +10,7 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2026 - To: 09 May 2026
+From: 10 April 2026 - To: 10 May 2026
 
 Total Time: 20 hrs 1 min
 
