@@ -10,19 +10,20 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 May 2026 - To: 28 June 2026
+From: 31 May 2026 - To: 30 June 2026
 
-Total Time: 8 hrs 33 mins
+Total Time: 6 hrs 14 mins
 
-Java       4 hrs 27 mins         █████████████------------   52.07 %
-Rust       3 hrs 44 mins         ███████████--------------   43.70 %
-Lua        8 mins                 ------------------------   01.61 %
-XML        4 mins                >------------------------   00.96 %
-Go         3 mins                >------------------------   00.73 %
-Markdown   0 secs                -------------------------   00.11 %
-kitty      0 secs                -------------------------   00.08 %
-Text       0 secs                -------------------------   00.04 %
-Docker     0 secs                -------------------------   00.04 %
+Java       4 hrs 30 mins         ██████████████████-------   72.12 %
+Rust       1 hr 24 mins          █████▒-------------------   22.58 %
+Lua        8 mins                ░------------------------   02.21 %
+XML        5 mins                 ------------------------   01.58 %
+Go         4 mins                 ------------------------   01.13 %
+Markdown   0 secs                -------------------------   00.15 %
+kitty      0 secs                -------------------------   00.12 %
+Text       0 secs                -------------------------   00.05 %
+Docker     0 secs                -------------------------   00.05 %
+Other      0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
